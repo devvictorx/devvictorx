@@ -20,6 +20,7 @@
 </div>  <br>
 
 ## O que faço atualmente?
-- 📚 Estou cursando no Centro Universitário Estácio o curso de Ciência da Computação — (mar-2024 até mar-2028)
-- 💻 Aproveito para programar e compartilhar conhecimento com outras pessoas
+- 📚 Estou cursando no Centro Universitário Estácio o curso de Ciência da Computação - (mar-2024 até mar-2028)
+- 💻 Estou cursando na Instituição Senac São Paulo o curso de Técnico de Informática - (set-2022 até mar-2024)
+- 💼 Aproveito para programar e compartilhar conhecimento com outras pessoas
 - 🤍 Sou apaixonado por tecnologia, e por mudar a vida das pessoas através da programação
